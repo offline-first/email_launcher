@@ -1,3 +1,8 @@
+## 1.1.3
+
+* Migrates the Android plugin to Built-in Kotlin support.
+* Updates minimum supported SDK versions to Flutter 3.44 and Dart 3.12.
+
 ## 1.1.2
 
 * Add Swift Package Manager support for iOS.
