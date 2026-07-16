@@ -1,3 +1,7 @@
+## 1.1.4
+
+* Fix the Swift Package Manager product name expected by Flutter.
+
 ## 1.1.3
 
 * Migrates the Android plugin to Built-in Kotlin support.

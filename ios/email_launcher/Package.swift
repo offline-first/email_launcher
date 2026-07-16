@@ -9,7 +9,7 @@ let package = Package(
         .iOS("12.0")
     ],
     products: [
-        .library(name: "email_launcher", targets: ["email_launcher"])
+        .library(name: "email-launcher", targets: ["email_launcher"])
     ],
     dependencies: [
         .package(name: "FlutterFramework", path: "../FlutterFramework")
